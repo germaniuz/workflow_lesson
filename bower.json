@@ -1,0 +1,6 @@
+{
+  "name": "workflow",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
